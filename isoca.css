@@ -1,0 +1,42 @@
+h1 {
+    text-align:center;
+    background-color: aqua;
+}
+h3{
+    font-style: oblique;
+    background-color: pink;
+}
+
+p {
+    text-align: center;
+    font-size: medium;
+}
+strong {
+    font-size: larger;
+}
+
+body {
+    background-color: purple;
+}
+.imagem1 {
+    width: 20;
+}
+.carro {
+    background-color: forestgreen
+
+}
+.motor {
+   color: aqua;
+}
+lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a{
+    text-transform: uppercase;
+    color: blanchedalmond;
+    font-weight: 300;
+    font-size: 100%;
+}
