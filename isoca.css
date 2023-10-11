@@ -56,3 +56,10 @@ nav a{
 .imagem3 {
     width:30%
 }
+
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+        color: fuchsia;
+    }
