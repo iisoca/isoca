@@ -19,7 +19,8 @@ body {
     background-color: purple;
 }
 .tamanhoimagem {
-    width:30%
+    width:30%;
+    text-align: center;
 }
 .carro {
     background-color: forestgreen
