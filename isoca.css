@@ -18,8 +18,8 @@ strong {
 body {
     background-color: purple;
 }
-.imagem1 {
-    width: 20;
+.tamanhoimagem {
+    width:30%
 }
 .carro {
     background-color: forestgreen
@@ -28,35 +28,6 @@ body {
 .motor {
    color: aqua;
 }
-lista {
-        display: inline-block;
-        padding: 5%;
-        margin-right: 10%;
-    }
-
-nav a{
-    text-transform: uppercase;
-    color: blanchedalmond;
-    font-weight: 300;
-    font-size: 100%;
-}
-
-.imagem2 {
-    width:30%
-}
-
-}
-
-.imagem1 {
-    width:30%
-}
-
-}
-
-.imagem3 {
-    width:30%
-}
-
 .lista {
         display: inline-block;
         padding: 5%;
