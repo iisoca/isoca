@@ -33,8 +33,10 @@ strong {
 body {
     background-color: purple;
 }
-.tamanhoimagem {
-    width:30%;
+.tamanhho {
+    width:30% ;
+}
+.centralizar {
     text-align: center;
 }
 .carro {
