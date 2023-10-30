@@ -7,6 +7,11 @@ nav a{
     padding: 5%;
 }
 
+}
+nav a: hover {
+    color: orange;
+    text-decoration: underline;
+}
 
 .centralizar {
   text-align: center ;
