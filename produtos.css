@@ -19,12 +19,12 @@ nav a:hover {
   vertical-align: top;
   margin: 0 1.5%;
   padding: 30px 20px;
-  border-color: blue;
+  border-color: gray;
   border-width: 20px;
   border-style: solid;
 }
 
 body {
-  background-color: aquamarine;
+  background-color:  rgb(121, 76, 121);
   text-align:center;
 }
