@@ -1,6 +1,6 @@
 nav a{
     text-transform: uppercase;
-    color: darkorchid;
+    color: black;
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
@@ -8,8 +8,8 @@ nav a{
 }
 
 }
-nav a: hover {
-    color: orange;
+nav a:hover {
+    color: red;
     text-decoration: underline;
 }
 
