@@ -17,11 +17,11 @@ nav a:hover {
 
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color:  rgb(121, 76, 121);
 }
 h3{
     font-style: oblique;
-    background-color: pink;
+    background-color: rgb(121, 76, 121);
 }
 
 p {
@@ -33,7 +33,7 @@ strong {
 }
 
 body {
-    background-color: purple;
+    background-color: gray;
 }
 .tamanhho {
     width:30% ;
@@ -42,15 +42,15 @@ body {
     text-align: center;
 }
 .carro {
-    background-color: forestgreen
+    background-color:  rgb(121, 76, 121);
 
 }
 .motor {
-   color: aqua;
+   color:  rgb(121, 76, 121);
 }
 .lista {
         display: inline-block;
         padding: 5%;
         margin-right: 10%;
-        color: fuchsia;
+        color: cornflowerblue;
     }
