@@ -1,1 +1,30 @@
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: none ;
+    padding: 5%;
+}
 
+}
+nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.centralizar {
+  text-align: center ;
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 1.5%;
+  padding: 30px 20px;
+  border-color: gray;
+  border-width: 20px;
+  border-style: solid;
+}
+
+body {
+  background-color:  rgb(121, 76, 121);
+  text-align:center;
+}
