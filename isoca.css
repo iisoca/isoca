@@ -9,10 +9,9 @@ nav a{
 
 }
 
-}
 nav a:hover {
-    color: red;
-    text-decoration: 
+    color: orange;
+    text-decoration: underline;
 }
 
 h1 {
